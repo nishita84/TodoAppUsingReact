@@ -1,0 +1,8 @@
+.decoratedcard {
+  width: 600px;
+  height: 352px;
+  margin: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
